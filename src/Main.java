@@ -35,30 +35,3 @@ public class Main {
         return max;
     }
 }
-//ArrayList<Integer> list = new ArrayList<Integer>();
-//list.add(100);
-//list.add(-666);
-//list.add(666);
-//
-//int min = list.get(0);
-//int max = list.get(0);
-//
-//for (Integer i: list) {
-//    if(i < min)
-//        min = i;
-//    if(i > max)
-//        max = i;
-//}
-//
-//System.out.println("минимальное число: " + min);
-//System.out.println("максимальное число: " + max);
-
-
-
-
-
-
-//Создайте в программе 3 класса: Квадрат{двухсторонний}, Круг{двойной радиус},
-// Прямоугольник{двухстороннийА, двухстороннийВ}.
-//В каждом классе реализован метод double callcArea(),
-// который считает площадь фигуры. Создать список из фигур и для каждой фигуры вывести на экран ее площадь.
